@@ -1,4 +1,4 @@
-#Welcome! :wave:#
+# Welcome! :wave: #
 
 My name is Matt and I'm a mobile developer :iphone:, but I mostly use github to hone my webdev skills and keep track of side projects :computer:. 
 
