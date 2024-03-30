@@ -12,6 +12,7 @@ My name is Matt and I'm a mobile developer :iphone:, but I mostly use github to 
 - Human Stuff:
   - Being the best Husband, Dad, and Friend I can be :pray: :heart: :love_you_gesture: 
   - Drinking less coffee :coffee: :sweat_smile:
+  - Brazilian Jiu-jitsu!
 
 ### Reach Out :handshake: ##
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/matt-de-la-o)
